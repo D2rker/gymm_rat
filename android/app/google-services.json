@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "23828552690",
+    "project_id": "gymm-rat-f9a19",
+    "storage_bucket": "gymm-rat-f9a19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23828552690:android:770a75cc617f1529fb696b",
+        "android_client_info": {
+          "package_name": "com.example.gymm_rat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23828552690-nqke1ggf0caaksevn4lrj916m6134mb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gymm_rat",
+            "certificate_hash": "514c469854e0efa4e9e5f39e694b009d8308fb8b"
+          }
+        },
+        {
+          "client_id": "23828552690-gfo572knmqcl6ffh6hkmpl6oe5n3ppil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwSBl8yMQhi9TU2D1DXVcFVdp1DjBmZA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23828552690-gfo572knmqcl6ffh6hkmpl6oe5n3ppil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "23828552690-jcdb2o42i131bf7og5ip18t6pfu5rf29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gymmRat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
