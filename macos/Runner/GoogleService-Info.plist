@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>23828552690-luce2dgrva7qh04jg5rnio384jftcr15.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.23828552690-luce2dgrva7qh04jg5rnio384jftcr15</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>23828552690-nqke1ggf0caaksevn4lrj916m6134mb9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBSeR6CYw0wzbhGj4esGnJ70YXU8HLLPqE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>23828552690</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gymmRat.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>gymm-rat-f9a19</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymm-rat-f9a19.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:23828552690:ios:e86996c8e664143cfb696b</string>
+</dict>
+</plist>
